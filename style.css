@@ -51,13 +51,10 @@ body {
   flex-direction: row;
   justify-content: center;
   font-family: serif;
-<<<<<<< HEAD
   font-size: 18px;
   color: rgb(255, 0, 221);
-=======
   font-size: 28px;
   color: yellow;
->>>>>>> 2eeab65c755bfbcb3f2c5d52bef88935f2759051
   margin: 1%;
   width: 70%;
   height: 50vh;
@@ -76,15 +73,12 @@ body {
   flex-direction: column;
   justify-content: center; /* Centering i kolumnen, dvs vertikalt */
   text-align: center; /* Horisontell centrering av text */
-<<<<<<< HEAD
   background-color: rgb(
     50,
     108,
     128
   ); /* Man sätta bakgrundsfärg som är skild från sidans bakgrund */
-=======
   /*background-color: lightblue; /* Man sätta bakgrundsfärg som är skild från sidans bakgrund */
->>>>>>> 2eeab65c755bfbcb3f2c5d52bef88935f2759051
   font-family: serif;
   font-size: 48px;
   color: rgb(15, 177, 23);
@@ -97,8 +91,6 @@ body {
   border-width: 1.5px;
   border-radius: 15px; /* Rundade hörn */
   /*display: none;*/
-<<<<<<< HEAD
-=======
 }
 
 #buttons-container {
@@ -170,5 +162,4 @@ body {
   color: black;
   width: 150px;
   height: 75px;
->>>>>>> 2eeab65c755bfbcb3f2c5d52bef88935f2759051
 }
