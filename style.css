@@ -30,7 +30,7 @@ body {
   align-items: center; /* Vertikalt centrerad */
   justify-content: center; /* Horisontellt centrerad */
   text-align: center;
-  color: white;
+  color: rgb(255, 187, 0);
   background-color: transparent;
   /* border: solid; */
   /* border-width: 1.5px; */
@@ -51,7 +51,7 @@ body {
   flex-direction: row;
   font-family: serif;
   font-size: 18px;
-  color: yellow;
+  color: rgb(255, 0, 221);
   margin: 1%;
   width: 30%;
   height: 50vh;
@@ -70,17 +70,21 @@ body {
   flex-direction: column;
   justify-content: center; /* Centering i kolumnen, dvs vertikalt */
   text-align: center; /* Horisontell centrering av text */
-  background-color: lightblue; /* Man sätta bakgrundsfärg som är skild från sidans bakgrund */
+  background-color: rgb(
+    50,
+    108,
+    128
+  ); /* Man sätta bakgrundsfärg som är skild från sidans bakgrund */
   font-family: serif;
   font-size: 48px;
-  color: black;
+  color: rgb(15, 177, 23);
   margin: 1%;
   width: 70%;
   height: 50vh;
   padding: 2%;
   border: dashed;
-  border-color: black;
+  border-color: rgb(255, 26, 26);
   border-width: 1.5px;
   border-radius: 15px; /* Rundade hörn */
-  display: none;
+  /*display: none;*/
 }

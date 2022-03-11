@@ -27,3 +27,4 @@ for (let i = 0; i < myArray.length; i++) {
 
 // Här sker själva utmatningen
 outputContainer.innerHTML = myString;
+outputContainer.style.backgroundColor = "yellow"
